@@ -24,7 +24,6 @@ public:
                        
                         i = n;
                     }
-                       
                     count++;
                     findex = lindex + 1;
                     lindex = i;
